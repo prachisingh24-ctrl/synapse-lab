@@ -80,4 +80,4 @@ The project was informed by work on linear attention and recurrent/state-space s
 AI tools assisted with implementation brainstorming, explanatory copy, literature discovery/organization, and document/layout drafting. The team retained responsibility for the final implementation, evidence classification, source verification, and scientific claims. AI-generated material is not treated as a primary scientific source.
 
 ## License
-Educational/hackathon project. Add the team's preferred license before public reuse.
+MIT License
