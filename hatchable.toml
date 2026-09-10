@@ -1,0 +1,15 @@
+name = "Synapse Lab"
+tagline = "Build a memory. Stress it. Break it. Understand it."
+description = "An interactive DataForge 2026 Pathway experience exploring synaptic plasticity, temporary associative memory, decay, interference, and the conceptual connection to BDH."
+category = "Education"
+tags = ["neuroscience", "education", "dataforge", "synaptic-plasticity", "interactive"]
+
+[auth]
+enabled = true
+providers = ["email"]
+hosted_login = true
+login_path = "/login"
+
+[db.tables.experiment_runs]
+read = "own"
+write = "own"
